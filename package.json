@@ -31,7 +31,7 @@
     "easystarjs": "^0.4.3",
     "figlet": "^1.2.1",
     "inquirer": "^6.2.2",
-    "minimist": "^1.2.0"
+    "minimist": "^1.2.2"
   },
   "devDependencies": {
     "@babel/cli": "^7.2.0",
